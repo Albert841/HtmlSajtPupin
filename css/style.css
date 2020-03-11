@@ -1,0 +1,24 @@
+ body {
+        width: 960px;
+        margin: 20px auto;
+		
+      }
+	  .div1 {
+        width:350px;
+		float:left;
+      }
+
+      .div2 {
+	    float:left;
+        width: 600px;
+      }
+          .ul {
+    	list-style-type: none;
+    }
+         .ul li a {
+    	color:red;
+		font-family: sans-serif;
+		text-decoration: none;
+		background-color:Yellow;
+		font-size: 17px;
+    }
